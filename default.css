@@ -1,0 +1,256 @@
+body {
+
+  background-color: white;
+}
+
+#container{
+  width: 960px;
+  height:100%;
+  text-align: center;
+  margin: auto;
+} 
+
+ul {
+
+  list-style-type: none;
+  margin: 20px 0px 15px 0px;
+  padding: 0px;
+  text-align: center;
+
+}
+
+li {
+
+  display: inline;
+}
+
+a.homepage {
+
+  color: #101A23;
+  border-radius: 2px;
+  background-color: white;
+  text-align: center;
+  padding: 7px 20px;
+  font-family: 'cursive';
+  font-size: 20px;
+}
+
+a.nav {
+
+
+  color: white;
+  border-radius: 2px;
+  background: #DF6715;
+  text-align: center;
+  padding: 7px 20px;
+  text-decoration: none;
+  font-family: 'cursive';
+  font-size: 20px;
+}
+
+p {
+
+  text-align: center;
+  margin: 12px auto;
+  padding: 15px 35px 10px;
+  height: 113px;
+  background-color: #4E545A;
+  color: white;
+  opacity: .6;
+  border-radius: 2px;
+  font-family: fantasy;
+
+
+}
+
+#me {
+
+  width: 300px;
+  height: 300px;
+  border-radius: 150px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*/*//***//*.wrapper, html, body {
+    width: 100%;
+    min-height: 100%;
+    padding: none;
+    margin: 0px;
+    margin-top: 5px;
+}
+
+
+    /* A good way to keep my font elements consistant*/
+/*h1
+    {
+    font-size: 2.2em;
+    font-family: 'pacifico';
+}
+
+h2
+    {
+    font-size: 2.0em;
+    font-family:'pacifico';
+    text-align: left;
+
+}
+
+p
+    {
+    font-size: 1.2em;
+}*/
+
+
+
+/*HEADER*/
+
+
+/* Nav Bar (with a lot of help from google)*/
+/*.nav ul {
+  list-style: none;
+  background-color: #888;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+.nav li {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.2em;
+  line-height: 40px;
+  height: 40px;
+  border-bottom: 1px solid #888;
+  display: inline-block;
+  margin-right: -4px;
+}
+.nav li:active {
+  background-color: #444;
+}*/
+
+./*nav a {
+  text-decoration: none;
+  color: #1C4838;
+  display: block;
+
+}
+
+.nav a:hover {
+  background-color: #fff;
+}
+
+.nav a:active {
+  background-color: #444;
+}*/
+
+ /*Looked this bit up on google to see how to format the navigation bar and also asked some cohort mates for help */
+/*@media screen and (min-width: 300px) {
+  .nav li {
+    width: 120px;
+    border-bottom: none;
+    height: 50px;
+    line-height: 50px;
+    font-size: 1.4em;
+  }
+
+/* H1 text *//
+/*#intro_text, #sub_headline {
+
+  text-align: left;
+  font-family: 'pacifico', cursive;
+  margin-bottom: -8px;
+}*/
+/*
+/* my Image */
+/*img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    position: fixed;
+    left: 358px;
+
+}*/
+
+/* dev Image */
+
+/*#dev {
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
+  position: fixed;
+  left: 24;
+}*/
+/**/
+
+/*/**//*/*/
+/* Footer*/ /*/
+
+
