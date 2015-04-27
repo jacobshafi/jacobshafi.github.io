@@ -72,7 +72,10 @@ p {
   -moz-border-radius: 150px;
 }
 
+img {
 
+  position: center;
+}
 
 
 
