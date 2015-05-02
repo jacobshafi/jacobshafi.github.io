@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<head>
+  <title>Map Method</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" type="text/css" href="blog-stylesheet.css">
+</head>
+<body>
+<main>
+
+  <h1>Defining the Map Method</h1>
+  
+  <h4>4/12/15</h4>
+
+  <section>
+    <p>
+      The DBC experience is a unique one to say the least. The fact that there is talk about emotional intelligence is something I am very excited about. I have always been interested in the connection between being in touch with your emotions and the inevitable causality of emotions on your well-being. The fact that there is a discussion on being inspired everyday and looking for ways to grow while hurdling over every challenge is something I am really exicted about as well.  
+    </p>
+    <p>
+        Right from the start, after applying for Dev Bootcamp, I already had a glimpse of what to expect at Dev Bootcamp and the expectations the instructors will have on the students. I look at Dev Bootcamp as the pioneer of an ideology that is relatively new in the field. The importance of collaboration and the constant strive for growth and perseverance are qualities not found in this industry by any means. Dev Bootcamp establishes an environment that breeds professionalism and motivation while maintaing mindfullness and appreciation, all qualities I find to be perfect for a well-rounded developer.
+    </p>
+    <p>
+        I am all too excited to participate in this culture and take the most out of this experience while growing with my fellow class mates. This experience will undoubtedly change my life. 
+    </p>
+
+    <h1>Technical Blog</h1>
+    <h4>4/12/15</h4>
+
+  <section>
+    <p>
+      Version Control is especially useful when collaborating with a number of people on one specific task. Version control contributes to clarity in code and diminshes any chance of overwrite by collaborating piers. This ingenious invention has made open source coding possible for everyone around the world who wishes to contribute code taylored to their needs. 
+    </p>
+    <p>
+        Git is a device that derives from this concept of version control. Git stores all changes you have made to a file in a log. Every change you make in a file it is stored on the local computer and can be accessed any time. 
+    </p>
+    <p>
+        GitHub is the most useful medium to store code because it contributes to a collaborative experience that software engineering inherently embodies. This medium makes tracking changes on the internet and boundless contributions to code possible. It is by far the most populat hub in which coders share and tweak code finely tuned to their needs. 
+    </p>
+
+      <!-- copy and paste as many sections as you want to add paragraphs -->
+  </section>
+</main>
+</body>

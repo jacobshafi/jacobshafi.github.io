@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<head>
+  <title>Map Method</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" type="text/css" href="blog-stylesheet.css">
+</head>
+<body>
+<main>
+
+  <h1>Defining the Map Method</h1>
+  
+  <h4>5/2/15</h4>
+
+  <section>
+    <p>
+      Looking to transform each element in an array? My first thought would have been to use a for loop and iterate over each element. This would be useful if I was trying to manipulate the array itself but what if I wanted to make a copy of the array and manipulate the copy only while keeping the original array. This question can be addressed by using the enumerable method, map. It would be wise to start by defining what an enumerable actually is. Simply put, an enumerable method is one that provides a set of methods to traverse, search, sort and manipulate lists, whether it be hashes or arrays. I mentioned earlier that using a for loop is an effective but rather elementary way of manipulating lists. Using enumerables is effective for the purpose of generating pretty and short code.  
+    </p>
+    <p>
+        I believe like the best way to start decribing this method is to first talk about the syntax rules in which it operates under. Every enumerable starts with an initiation (just like any other method) and is usually followed by a block that takes parameters. This set of parameters will manipulate a copy of the original array without changing the original. So if you would like to return an array that reverses each element in the original array, using the map method is a great place to start. 
+
+        
+    </p>
+    <img src="map.png">
+    <p>
+        Now if you would like to use map to manipulate the original array you would simply use map with a bang! This is also called a destructive method where the original array would be manipulated. In the example below I added a "!" which signifies a bang. This bang will manipulate the original array so if I puts names after the block of code the array would all be reversed.
+    </p>
+        
+        <img src="mapbang.png">
+    
+
+</main>
+</body>
