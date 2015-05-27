@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<head>
+  <title>Variable Scope</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" type="text/css" href="blog-stylesheet.css">
+</head>
+<body>
+<main>
+
+  <h1>Variable Scope</h1>
+  
+  <h4>5/17/15</h4>
+
+  <section>
+    <p>
+      The essence of flow and functionality lies in the hands of scope variability. The reason for this is because as code becomes more and more complicated it becomes equally more difficuly to figure out where a variables is accessible. In ruby there are four types of variables, local, global, instance, and class. These variables are designated by characters that come before the variables is created. Below is a figure that illuminates when and what to use for certain variables. 
+      <img src="variablescope">
+    </p>
+    <p>
+        Local variables are declared within a method or a loop but cannot be accessed anywhere else outside the method. These local variables must have a lower case or Ruby will not assess the variable or read the variable correctly. Global variables, on the other hand, can be accessed anywhere in the ruby program. Global variables should be used with caution because as code becomes larger it becomes harder to also track where variables are first defined. This means that if one were to redefine the global variable somewhere else in the code, it would simultaneously introduce a bug and one would also have to track through all instances of the variable to change the definition. 
+    </p>
+    <p>
+        A class variable is a variable that can be shared through all instances of a class. Using class variables solves the problem that would be introduced using global variables. Furthermore if one were to change the value of the variable, all other values associated with the variable will also change. Instance variables are inherently local to specific method making them very similar to class variables. 
+    </p>
+</main>
+</body>
