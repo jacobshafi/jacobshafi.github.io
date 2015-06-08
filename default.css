@@ -72,6 +72,24 @@ p {
   -moz-border-radius: 150px;
 }
 
+#table {
+  text-align: center;
+  margin: auto;
+}
+
+#table h3 {
+  height: 22px;
+}
+
+#table td {
+  width: 290px;
+}
+
+.imageTd {
+  width: 290px;
+  height: 290px;
+}
+
 
 
 

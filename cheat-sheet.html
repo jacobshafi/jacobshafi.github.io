@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<head>
+  <title>Ruby Hashes, Arrays, Strings, Integers</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" type="text/css" href="cheat-sheet-stylesheet.css">
+</head>
+
+
+<body>
+  <header>
+    <h1>Ruby Hashes, Arrays, Strings, Integers</h1>
+  </header>
+  <nav>
+    <a href="#Hashes"> Hashes </a>
+    <a href="#Arrays"> Arrays </a>
+    <a href="#Strings"> Strings </a>
+    <a href="#Integers"> Integers </a>
+  </nav>  
+
+  <article>
+    <section><h4><a name = "Hashes"> Hashes </a></h4>
+      <p> A way to store datatypes in a systematic fashion. More specifically, hashes are used to reference values by calling on the keys associated with them. Hashes are especially helpful when creating large databases due to the freedoms provided when creating hashes. The way to access a value within a hash is performed by calling the key associated with it.</p>
+      <pre>
+        <code>
+          grades = { "Jane Doe" => 10, "Jim Doe" => 6 }
+        </code>
+      </pre>
+    </section>
+    
+      <section><h4><a name = "Arrays"> Arrays </a></h4>
+      <p> Arrays don't allow the freedoms hashes provide and for that reason should be used sparingly. Arrays are ordered, integer-indexed collections of any object. Within an array we can have any data type. The index of an array is ordered such that the first element in the array is at the zeroth spot and the second element is in the first position and so on. To access an element in a array one can simply write ary[0] to get the first element. Arrays can also be manipulated and iterated over to perform powerful tasks.  </p>
+      <pre>
+        <code>
+        ary = [1, "two", 3.0]
+        </code>
+      </pre>
+    </section>
+    
+    
+      <section><h4><a name = "Strings"> Strings </a></h4>
+      <p> Strings are a specific data type always wrapped around quotation marks. When a compiler reads a string it separates each letter such that it replicates the functionality of an array. Strings can also be manipulated as well using built in functions.   </p>
+      <pre>
+        <code>
+        string = "hello"
+        string * 3 => hellohellohello
+        </code>
+      </pre>
+    </section>
+    
+      <section><h4><a name = "Integers"> Integers </a></h4>
+      <p> Integers is another data type that is responsible for representing quantity. They are variables that hold numbers.  </p>
+      <pre>
+        <code>
+        num = 10
+        num * 3 => 30
+        </code>
+      </pre>
+    </section>
+
+   
+    
+  </article>
+</body>

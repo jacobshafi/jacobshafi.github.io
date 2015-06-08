@@ -1,0 +1,30 @@
+body {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+nav {
+  float: right;
+  word-spacing: 5px;
+}
+
+nav a {
+  display: inline-block;
+  color: black;
+}
+
+p {
+  text-indent: 25px;
+}
+
+header {
+  margin-top: 2em;
+  letter-spacing: 1px;
+  font-family: 'Courier New', serif;
+  margin-bottom: 2em;
+}
+
+section a {
+  font-family: 'Courier New', serif;
+}
